@@ -29,4 +29,3 @@ This project is licensed under the MIT License.
 
 [Developer] https://github.com/devtoprak
 
-[Developer](https://github.com/devtoprak)
